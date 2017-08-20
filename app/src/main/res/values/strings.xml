@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="save_action">save</string>
+    <string name="delete_all">Delete all items</string>
+    <string name="delete_action">delete</string>
+    <string name="unsaved_dialog_msg">Discard changes and quit editing</string>
+    <string name="discard">Discard</string>
+    <string name="Keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Item ?</string>
+    <string name="delete">Delete</string>
+    <string name="delete_cancel">Cancel</string>
+    <string name="delete_item_failed">Error in deleting item</string>
+    <string name="delete_item_success">Item Deleted</string>
+    <string name="editor_item_save_failed">Error in saving Item</string>
+    <string name="editor_item_save_successful">Item saved</string>
+    <string name="editor_item_update_failed">Error in updating Item</string>
+    <string name="editor_item_update_successful">Update Successfull</string>
+    <string name="order_successful">Order is placed Successfully</string>
+    <string name="quantity">Kg</string>
+    <string name="price"> \u20B9</string>
+</resources>
